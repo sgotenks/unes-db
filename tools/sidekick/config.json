@@ -5,7 +5,7 @@
       "id": "library",
       "title": "Library",
       "environments": [ "dev", "edit" ],
-      "url": "https://main--unes-db--sgotenks.hlx.page/tools/sidekick/library.html",
+      "url": "https://main--unes-db--sgotenks.aem.page/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
     },
     {
