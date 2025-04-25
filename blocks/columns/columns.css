@@ -7,7 +7,6 @@
   flex-direction: column;
   height: 800px;
   border-bottom: 1px solid gray;
-  background-color: rgba(255, 255, 255, .7);
 }
 
 .columns img {
@@ -35,6 +34,9 @@
   object-position: right;
 }
 
+.columns > div > div {
+  background-color: rgba(255, 255, 255, .7);
+}
 @media (min-width: 900px) {
   .columns > div {
     align-items: center;
