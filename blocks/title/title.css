@@ -31,3 +31,14 @@
   letter-spacing: -3px;
   text-shadow: none;
 }
+
+
+
+@media (max-width: 900px) {
+
+  .title.style1 h1 {
+      font-size: 8vw;
+      letter-spacing: initial;
+  }
+  
+}
