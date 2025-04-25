@@ -36,7 +36,13 @@
 
 .columns > div > div {
   background-color: rgba(255, 255, 255, .7);
+  text-align: center;
 }
+
+.columns > div > div > p {
+  margin:0;
+}
+
 @media (min-width: 900px) {
   .columns > div {
     align-items: center;
