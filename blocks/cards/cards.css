@@ -76,6 +76,45 @@
 
 
 
+
+.cards.style2 h3{
+  max-width: 14vw;
+  margin: 0 auto;
+  color: #502c1e;
+  font-weight: 400 !important;
+  font-family: "Be Vietnam Pro";
+  font-size: 16px;
+  line-height: 1.4;
+  margin-top: 20px !important;
+}
+
+.cards.style2{
+    background: url("https://catalogo.ilviaggiatorgoloso.it/wp-content/uploads/line-19.svg");
+    background-repeat: no-repeat;
+    /* background-position: 0 50%; */
+    background-size: contain;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.cards.style2 > ul > li img:hover {
+    transition: all 0.2s ease-out;
+    transform: translateY(-0.9vh);
+    transform: rotate(10deg);
+}
+
+.cards.style2 .cards-card-body {
+    text-align: center;
+}
+
+.cards.style2 > ul > li {
+   text-align: center;
+}
+
+
+
+
+
 @media (min-width: 900px) {
   .cards.style1 > ul > li {
       width: calc(100% / 3);
@@ -85,6 +124,14 @@
       display: flex;
   }
 
+  .cards.style2 > ul > li {
+      width: calc(100% / 3);
+  }
+  
+  .cards.style2 > ul {
+      display: flex;
+  }
+  
   .cards > ul > li img {
     width: 300px;
     aspect-ratio: initial;
