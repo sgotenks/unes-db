@@ -79,6 +79,7 @@ main .hero img {
 
 .hero.style1 {
     text-align: center;
+    padding-left: 6em;
 }
 
 .hero.style1 h1{
@@ -88,7 +89,6 @@ main .hero img {
     color: #502C0A !important;
     width: 55%;
     text-shadow: none;
-    padding-left: 2em;
 }
 
 .hero.style1 h4{
