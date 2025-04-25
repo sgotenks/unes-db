@@ -336,6 +336,17 @@ main .section {
   top: 0;
 }
 
+.section.background1 {
+    background-image: url("https://catalogo.ilviaggiatorgoloso.it/wp-content/themes/yootheme/cache/b3/Risorsa-2lineabg-b3faca88.webp");
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flow-root;
+    box-sizing: border-box;
+}
+
 
 /* main:has(.section.overview), main:has(.section.itinerary), main:has(.section.what-to-bring) {
   display: flex;
