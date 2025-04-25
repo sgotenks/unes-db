@@ -20,7 +20,10 @@
 .columns > div > .columns-img-col {
   order: 0;
   height: 90%;
+  background-color: rgba(255, 255, 255, .7);
 }
+
+
 
 .columns > div > .columns-img-col img {
   display: block;
