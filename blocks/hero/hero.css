@@ -114,6 +114,7 @@ main .hero.style1 picture {
     box-sizing: border-box;
     width: 35vw;
     height: auto;
+    left: initial;
 }
 
 main .hero.style1 img {
