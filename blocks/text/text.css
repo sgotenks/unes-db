@@ -1,1 +1,20 @@
+.text {
+  text-align: center;
+}
 
+.title.style1 {
+  color: #9d6d46 !important;
+  font-size: 28px !important;
+  text-decoration: underline !important;
+  text-decoration-color: #cdb5a2 !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 6px !important;
+  display: block;
+  font-family: blackjar;
+  font-weight: inherit;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 40px !important;
+  margin-bottom: 40px;
+  width: 750px;
+}
