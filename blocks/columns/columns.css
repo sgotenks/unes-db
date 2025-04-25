@@ -66,16 +66,7 @@
 }
 
 a.button.secondary {
-  background-color: #502c1e;
-  color: #fff;
-  backdrop-filter: blur(9px);
-  -webkit-backdrop-filter: blur(9px);
-  background-image: radial-gradient(circle at 50% 100%, #9d704e 1%, transparent 1%);
-  border: 1px solid #9d704e;
-}
-
-a.button.secondary:hover {
-    margin: 0;
+  margin: 0;
     border: none;
     overflow: visible;
     font: inherit;
@@ -96,6 +87,15 @@ a.button.secondary:hover {
     font-weight: 400;
     border-radius: 500px;
     background-origin: border-box;
+  background-color: #502c1e;
+  color: #fff;
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+  background-image: radial-gradient(circle at 50% 100%, #9d704e 1%, transparent 1%);
+  border: 1px solid #9d704e;
+}
+
+a.button.secondary:hover {
     background-color: #9d704e;
     color: #fff;
     background-color: #502c1e;
