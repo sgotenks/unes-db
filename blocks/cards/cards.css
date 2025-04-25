@@ -51,6 +51,21 @@
   margin-top: 20px !important;
 }
 
+
+.cards.style1 > ul > li img:hover {
+    transition: all 0.2s ease-out;
+    transform: translateY(-0.9vh);
+    transform: rotate(10deg);
+}
+
+.cards.style1 .cards-card-body {
+    text-align: center;
+}
+
+.cards.style1 > ul > li {
+   text-align: center;
+}
+
 @media (min-width: 900px) {
   .cards.style1 > ul > li {
       width: calc(100% / 3);
