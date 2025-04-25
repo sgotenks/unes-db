@@ -402,6 +402,14 @@ main .section {
   .section>div {
     margin: auto;
   }
+
+  .section.background1 {
+    background-size: initial;
+    padding-top: 0px; 
+    padding-bottom: 0px; 
+}
+
+  
 }
 
 /* section metadata */
