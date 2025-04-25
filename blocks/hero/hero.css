@@ -140,7 +140,7 @@ main .hero.style1 a.button.secondary {
 
 @media (max-width: 900px) {
   .hero.style1 {
-     padding-left: initial;
+     padding: 1em;
   }
 
   main .hero {
@@ -161,6 +161,15 @@ main .hero.style1 a.button.secondary {
 
   .hero.style1 p:not(:first-of-type) {
       width: 100%;
+  }
+
+  .hero.style1 p:not(:first-of-type) {
+      font-size: 22px !important;
+  }
+
+  .hero.style1 h1 {
+      font-size: 6.5vw;
+   
   }
   
 }
