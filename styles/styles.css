@@ -347,6 +347,12 @@ main .section {
     box-sizing: border-box;
 }
 
+.section.background2 {
+    position: relative;
+    z-index: 4;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(186deg, rgba(255, 255, 255, 1) 0%, rgba(145, 212, 246, 0.6) 100%);
+}
 
 /* main:has(.section.overview), main:has(.section.itinerary), main:has(.section.what-to-bring) {
   display: flex;
