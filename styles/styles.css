@@ -372,6 +372,8 @@ main .section {
     animation: gradient 15s ease infinite;
     position: relative;
     z-index: 10;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 
