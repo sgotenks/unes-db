@@ -91,7 +91,7 @@ main .hero img {
     padding-left: 2em;
 }
 
-.hero.style1 p{
+.hero.style1 p:not(:first-of-type){
     color: #9d6d46 !important;
     font-size: 28px !important;
     text-decoration: underline !important;
