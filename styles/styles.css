@@ -366,6 +366,7 @@ main .section {
 .section.background4 {
    position: relative;
    z-index: 4;
+  background: rgb(255, 255, 255);
    background: linear-gradient(186deg, rgba(255, 255, 255, 1) 0%, rgba(74, 190, 161, 0.8) 100%);
 }
 
