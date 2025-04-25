@@ -39,3 +39,11 @@
   object-fit: cover;
   border-radius: 9px;
 }
+
+.cards.style1 h3{
+  max-width: 14vw;
+  margin: 0 auto;
+  color: #9d704e !important;
+  font-weight: 500 !important;
+  font-family: droidserif;
+}
