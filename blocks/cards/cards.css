@@ -200,7 +200,7 @@
       aspect-ratio: initial;
   }
 
-  .cards-style4 > ul > li img {
+  .cards.style4 > ul > li img {
       width: initial;   
   }
 }
