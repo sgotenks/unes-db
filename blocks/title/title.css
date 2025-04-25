@@ -9,4 +9,6 @@
   font-weight: inherit;
   color: #502c1e !important;
   line-height: 1.1;
+  text-shadow: none;
+  letter-spacing: -3px;
 }
