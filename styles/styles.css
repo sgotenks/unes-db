@@ -362,8 +362,6 @@ main .section {
 @media (min-width: 900px) {
   .section>div {
     margin: auto;
-    padding-left: 40px;
-    padding-right: 40px;
   }
 }
 
