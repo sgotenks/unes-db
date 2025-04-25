@@ -75,3 +75,42 @@ main .hero img {
 .article main .hero img {
   height: 600px;
 }
+
+
+.hero.style1 {
+    text-align: center;
+}
+
+.hero.style1 h1{
+    font-size: 3.5vw;
+    font-family: droidserif;
+    font-weight: 500;
+    color: #502C0A !important;
+    width: 55%;
+    text-shadow: none;
+    padding-left: 2em;
+}
+
+.hero.style1 p{
+    color: #9d6d46 !important;
+    font-size: 28px !important;
+    text-decoration: underline !important;
+    text-decoration-color: #cdb5a2 !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 6px !important;
+    width: 55%;
+    font-family: blackjar;
+    font-weight: inherit;
+    line-height: 42px;
+}
+
+main .hero.style1 picture {
+    position: fixed;
+    z-index: -100;
+    top: calc(var(--nav-height)* 2);
+    bottom: 0;
+    right: 0;
+    object-fit: cover;
+    box-sizing: border-box;
+    height: auto;
+}
