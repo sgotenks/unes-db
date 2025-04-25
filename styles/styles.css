@@ -376,6 +376,12 @@ main .section {
     padding-right: 40px;
 }
 
+.section.background6 {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(186deg, rgba(255, 255, 255, 1) 0%, rgba(188, 226, 247, 0.6) 100%);
+    position: relative;
+    z-index: 4;
+}
 
 /* main:has(.section.overview), main:has(.section.itinerary), main:has(.section.what-to-bring) {
   display: flex;
