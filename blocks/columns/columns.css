@@ -64,7 +64,7 @@
   padding: 15px;
 }
 
-.columns > div > div > p:first-child {
+.columns > div > div > p:first-of-type {
   padding:0;
 }
 
