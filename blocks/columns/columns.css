@@ -7,6 +7,7 @@
   flex-direction: column;
   height: 800px;
   border-bottom: 1px solid gray;
+  background-color: rgba(255, 255, 255, .7);
 }
 
 .columns img {
@@ -20,7 +21,6 @@
 .columns > div > .columns-img-col {
   order: 0;
   height: 90%;
-  background-color: rgba(255, 255, 255, .7);
 }
 
 
