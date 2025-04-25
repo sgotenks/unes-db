@@ -25,3 +25,10 @@
   font-weight: 400;
   src: url("/fonts/AdobeClean-Light.ttf") format("truetype")
 }
+
+@font-face {
+    font-family: droidserif;
+    src: url("/fonts/Adroidserif.otf");
+    font-weight: 400;
+    font-display: block;
+}
