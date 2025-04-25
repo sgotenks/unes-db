@@ -159,6 +159,8 @@ main .hero.style1 a.button.secondary {
       width: 100%;
   }
 
-
+  .hero.style1 p:not(:first-of-type) {
+      width: 100%;
+  }
   
 }
