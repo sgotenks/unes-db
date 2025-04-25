@@ -52,7 +52,7 @@
 }
 
 .cards.style1{
-    background: url(https://catalogo.ilviaggiatorgoloso.it/wp-content/uploads/line-19.svg);
+    background: url("https://catalogo.ilviaggiatorgoloso.it/wp-content/uploads/line-19.svg");
     background-repeat: no-repeat;
     /* background-position: 0 50%; */
     background-size: contain;
