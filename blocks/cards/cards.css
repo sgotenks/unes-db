@@ -51,6 +51,14 @@
   margin-top: 20px !important;
 }
 
+.cards.style1{
+    background: url(https://catalogo.ilviaggiatorgoloso.it/wp-content/uploads/line-19.svg);
+    background-repeat: no-repeat;
+    /* background-position: 0 50%; */
+    background-size: contain;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
 
 .cards.style1 > ul > li img:hover {
     transition: all 0.2s ease-out;
