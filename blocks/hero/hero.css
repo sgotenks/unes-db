@@ -171,5 +171,11 @@ main .hero.style1 a.button.secondary {
       font-size: 6.5vw;
    
   }
+
+  
+  .hero.style1 p:nth-of-type(2) {
+      position: initial;
+      z-index: 1;
+  }
   
 }
