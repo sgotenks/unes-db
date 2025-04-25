@@ -420,4 +420,7 @@ body.noscroll {
       padding-top: 0px; 
       padding-bottom: 0px; 
   }
+  .footer-wrapper{
+    display: none;
+  }
 }
