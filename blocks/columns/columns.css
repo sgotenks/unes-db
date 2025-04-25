@@ -108,7 +108,7 @@ a.button.secondary:hover {
 
 @media (min-width: 900px) {
   .columns > div {
-    align-items: center;
+    align-items: initial;
     flex-direction: unset;
     gap: 32px;
   }
