@@ -111,6 +111,9 @@ main .hero img {
     font-family: blackjar;
     font-weight: inherit;
     line-height: 42px;
+}
+
+.hero.style1 p:not(:first-of-type) picture{
   position: initial;
 }
 
