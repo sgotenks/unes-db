@@ -112,5 +112,12 @@ main .hero.style1 picture {
     right: 0;
     object-fit: cover;
     box-sizing: border-box;
+    width: 35vw;
+    height: auto;
+}
+
+main .hero.style1 img {
+    object-fit: cover;
+    width: 88%;
     height: auto;
 }
