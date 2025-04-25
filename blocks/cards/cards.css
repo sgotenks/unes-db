@@ -66,6 +66,8 @@
    text-align: center;
 }
 
+
+
 @media (min-width: 900px) {
   .cards.style1 > ul > li {
       width: calc(100% / 3);
@@ -73,5 +75,9 @@
   
   .cards.style1 > ul {
       display: flex;
+  }
+
+  .cards > ul > li img {
+    width: 300px;
   }
 }
