@@ -79,5 +79,6 @@
 
   .cards > ul > li img {
     width: 300px;
+    aspect-ratio: initial;
   }
 }
