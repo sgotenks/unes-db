@@ -40,5 +40,10 @@
       font-size: 13vw;
       letter-spacing: initial;
   }
+
+  .title.style2 h1 {
+      font-size: 13vw;
+      letter-spacing: initial;
+  }
   
 }
