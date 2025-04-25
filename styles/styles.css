@@ -401,15 +401,7 @@ main .section {
 @media (min-width: 900px) {
   .section>div {
     margin: auto;
-  }
-
-  .section.background1 {
-    background-size: initial;
-    padding-top: 0px; 
-    padding-bottom: 0px; 
-}
-
-  
+  } 
 }
 
 /* section metadata */
@@ -419,4 +411,13 @@ main .section.highlight {
 
 body.noscroll {
   overflow: hidden;
+}
+
+
+@media (max-width: 900px) {
+ .section.background1, .section.background2, .section.background3, .section.background4, .section.background5 {
+      background-size: initial;
+      padding-top: 0px; 
+      padding-bottom: 0px; 
+  }
 }
