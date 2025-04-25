@@ -39,9 +39,7 @@
   text-align: center;
 }
 
-.columns > div > div > p {
-  margin:0;
-}
+
 
 .columns > div > div > h4 {
     font-size: 14px;
@@ -63,8 +61,11 @@
   color: #1d1d1d;
   font-family: "Be Vietnam Pro";
   font-size: 16px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.columns > div > div > p:first-child {
+  margin:0;
 }
 
 a.button.secondary {
