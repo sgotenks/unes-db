@@ -63,6 +63,8 @@
   color: #1d1d1d;
   font-family: "Be Vietnam Pro";
   font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 a.button.secondary {
@@ -87,18 +89,18 @@ a.button.secondary {
     font-weight: 400;
     border-radius: 500px;
     background-origin: border-box;
-  background-color: #502c1e;
-  color: #fff;
-  backdrop-filter: blur(9px);
-  -webkit-backdrop-filter: blur(9px);
-  background-image: radial-gradient(circle at 50% 100%, #9d704e 1%, transparent 1%);
-  border: 1px solid #9d704e;
+  
+    background-color: #502c1e;
+    color: #fff;
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    background-image: radial-gradient(circle at 50% 100%, #9d704e 1%, transparent 1%);
+    border: 1px solid #9d704e;
 }
 
 a.button.secondary:hover {
     background-color: #9d704e;
     color: #fff;
-    background-color: #502c1e;
     border-color: #502c1e;
 }
 
