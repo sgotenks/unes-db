@@ -117,3 +117,16 @@ a.button.secondary:hover {
     order: unset;
   }
 }
+
+@media (max-width: 900px) {
+
+
+  .columns > div {
+      height: auto;
+  }
+
+  .columns > div > div {
+      margin-bottom: 3em;
+  }
+  
+}
