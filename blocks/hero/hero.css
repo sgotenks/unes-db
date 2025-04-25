@@ -111,6 +111,7 @@ main .hero img {
     font-family: blackjar;
     font-weight: inherit;
     line-height: 42px;
+  position: initial;
 }
 
 main .hero.style1 picture {
