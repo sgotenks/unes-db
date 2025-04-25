@@ -136,3 +136,29 @@ main .hero.style1 a.button.secondary {
     text-transform: uppercase;
     font-family: "Be Vietnam Pro";
 }
+
+
+@media (max-width: 900px) {
+  .hero.style1 {
+     padding-left: initial;
+  }
+
+  main .hero {
+      height: 100%;
+  }
+  
+  main .hero.style1 picture {
+    position: initial;
+  }
+
+  .hero.style1 h4 {
+      width: 100%;
+  }
+
+  .hero.style1 h1 {
+      width: 100%;
+  }
+
+
+  
+}
